@@ -21,6 +21,9 @@
               <CompanionClickThrough>
                 <![CDATA[https://iabtechlab.com]]>
               </CompanionClickThrough>
+              <CompanionClickTracking>
+                <![CDATA[http://202.168.108.109:21098/bigoad/trackingclk?sign=665XdzyYpsSrPTMTajM5jQxfIqAr4trfBxmAkY&gaid=208457a8-8180-4923-a13b-20f423f1daef&timestamp_ms=0&pkg_name=com.bigotest.ads&tgt_pkg_name=com.ascendex.exchange&sdk_vc=10800&disp_ts=1644918005&ad_id=32199043297415424&adset_id=42199043294761216&sid=546022906744542080&series_id=52198722967015680&org_id=21270534883217664&place_id=com.bigotest.ads_10189633-10386963&account_id=100004&placement_id=com.bigotest.ads_10189633-10386963&ad_type=3&adx_type=2&slot=10189633-10386963&ad_style=104&bt=0&cf=59-3&os=android&country=cu&extra=YWRfY2xrX3N1YnNhbXBsZV85tjS2r7sYHRibGhocmJiYG5U&pro=eyJhZ2UiOiIiLCJjaXR5IjoiIiwiY286tzo5PJEdETG6kRYRM7K3MjK5ER0RERYRNLm4ER0RERYRNjC3ER0RERYRNreyMrYRHRE5MrI2tJA3N7oykBuRFhE3MroRHRE7tLM0kRYRN7mRHREwtzI5N7SyERYRN7mvtjC3M5EdEREWETe5r7syuREdERyXGBEWETm6MLoykR0RERYROzK3Mje5ER0RPDSwt7a0kTd&pp=eyJhYmZsYWdzIjoiMzA0Ml8yObgvs7C6MruwvK9dWlfdGVzdCwxMTUyX2RzcF8zsLoyu7C8V86OTCxtbK5MzkvmJYYmJubr7OwujK7sLyvtLa2srk5tLsylhkbHJmvsbe5ui9ZGVmYXVsdCwyNzEzX3Rlc3RfYmFubmVyNSxiaWRfYWJfdGVzdDEsYWR4X2FiX3Rlc3QxLHJhbmtfYWJfdGVzdDEsdGVzdF8xMLc3MrkRFhEwsi9YWJmbGFncyI6IiIsInBpeGVsX2lkIjoiIiwicHJlZF80tzM3r7sZER0RIrSgpaOjozWsGSc5sJicGrq5Ipq5pjCaJzUluzqxLJg6OJyyNSComjknujWgrLCjO7eoLKupMyyZrTysGTY6sTarPKwZrLuipawlOS0go5E9B&boost_ids=72&source_id=10189633com.bigotest.ads&source_type=1&access_type=2&identity_type=0&publisher_type=0&preview=0&sign_end=end]]>
+              </CompanionClickTracking> 
             </Companion>
           </CompanionAds>
           <UniversalAdId idRegistry="Ad-ID" >8465</UniversalAdId>
