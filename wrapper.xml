@@ -18,9 +18,7 @@
               <StaticResource creativeType="image/png">
                 <![CDATA[https://www.iab.com/wp-content/uploads/2014/09/iab-tech-lab-6-644x290.png]]>
               </StaticResource>
-              <CompanionClickThrough>
-                <![CDATA[https://iabtechlab.com]]>
-              </CompanionClickThrough>
+              
             </Companion>
           </CompanionAds>
           <UniversalAdId idRegistry="Ad-ID" >8465</UniversalAdId>
@@ -51,6 +49,12 @@
               <ClickThrough id="blog">
                 <![CDATA[https://www.baidu.com]]>
               </ClickThrough>
+              <ClickTracking>
+                <![CDATA[http://insight.adsrvr.org/track/clk?imp=09c39068-6f96-47c0-ae50-2ea2164eea1f&ag=e9dmx8g&sfe=12782273&sig=jBFH9fB-wipP5JFwXHGNSDtUonCJ9OyDZrsJHaIYhck.&crid=o1kiqeqt&cf=1629323&fq=0&td_s=video.like&rcats=&mcat=&mste=&mfld=4&mssi=None&mfsi=vi9pikklm0&sv=bigo&uhow=110&agsa=&wp=2.4&rgco=Pakistan&rgre=&rgme=&rgci=&rgz=&dt=Mobile&osf=Android&os=Android90&br=WebView&svpid=48&rlangs=en&mlang=&did=100005&rcxt=InApp&tmpc=&vrtd=14,15&osi=&osv=&daid=68efcc39-880c-492e-b94b-3a8644e6af2d&dnr=1&vpb=&c=OAFQAlgCeBQ.&dur=&durs=UJSBm-&crrelr=&npt=&mk=HMD&mdl=TA-1053&ipl=100003-1001692&ict=CellularNetwork4G&said=d097f217-ef84-4b60-aa74-d951602a03b9_1&auct=1&r=]]>
+              </ClickTracking>
+              <ClickTracking>
+                <![CDATA[http://insight.adsrvr.org/track/clk?imp=11111111-6f96-47c0-ae50-2ea2164eea1f&ag=e9dmx8g&sfe=12782273&sig=jBFH9fB-wipP5JFwXHGNSDtUonCJ9OyDZrsJHaIYhck.&crid=o1kiqeqt&cf=1629323&fq=0&td_s=video.like&rcats=&mcat=&mste=&mfld=4&mssi=None&mfsi=vi9pikklm0&sv=bigo&uhow=110&agsa=&wp=2.4&rgco=Pakistan&rgre=&rgme=&rgci=&rgz=&dt=Mobile&osf=Android&os=Android90&br=WebView&svpid=48&rlangs=en&mlang=&did=100005&rcxt=InApp&tmpc=&vrtd=14,15&osi=&osv=&daid=68efcc39-880c-492e-b94b-3a8644e6af2d&dnr=1&vpb=&c=OAFQAlgCeBQ.&dur=&durs=UJSBm-&crrelr=&npt=&mk=HMD&mdl=TA-1053&ipl=100003-1001692&ict=CellularNetwork4G&said=d097f217-ef84-4b60-aa74-d951602a03b9_1&auct=1&r=]]>
+              </ClickTracking>
             </VideoClicks>
           </Linear>
           <UniversalAdId idRegistry="Ad-ID" >8466</UniversalAdId>
