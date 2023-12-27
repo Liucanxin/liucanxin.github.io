@@ -44,7 +44,7 @@
             <Duration>00:00:15</Duration>
             <MediaFiles>
               <MediaFile id="5246" delivery="progressive" type="video/mp4" bitrate="600" width="640" height="360" minBitrate="500" maxBitrate="700" scalable="1" maintainAspectRatio="1" codec="H.264">
-                <![CDATA[http://video.699pic.com/videos/48/87/43/b_mIb6kDMiIxge1571488743.mp4]]>
+                <![CDATA[https://video.699pic.com/videos/48/87/43/b_mIb6kDMiIxge1571488743.mp4]]>
               </MediaFile>
             </MediaFiles>
             <VideoClicks>
