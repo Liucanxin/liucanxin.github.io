@@ -7,4 +7,6 @@ yahoo.com, 55029, RESELLER, e1a5b5b6e3255540
 adcolony.com, 44ef7fd4adebf701, RESELLER, 1ad675c9de6b5176
 indexexchange.com, 192410, RESELLER, 50b1c356f2c5c8fc
 admanmedia.com, 726, RESELLER
+betweendigital.com, 45263, DIRECT
+betweendigital.com, 44098, DIRECT
 bigo.sg,kf431nr1n4,DIRECT
