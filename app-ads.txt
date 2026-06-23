@@ -10,5 +10,5 @@ admanmedia.com, 726, RESELLER
 betweendigital.com, 45263, DIRECT
 betweendigital.com, 44098, DIRECT
 betweendigital.com, 44111, DIRECT
-bigo.sg,1000113991,DIRECT
+bigo.sg,1000113922,DIRECT
 bigo.sg,kf431nr1n4,DIRECT
