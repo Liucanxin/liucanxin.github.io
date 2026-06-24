@@ -9,6 +9,6 @@ indexexchange.com, 192410, RESELLER, 50b1c356f2c5c8fc
 admanmedia.com, 726, RESELLER
 betweendigital.com, 45263, DIRECT
 betweendigital.com, 44098, DIRECT
-betweendigital.com, 44111, DIRECT
-bigo.sg,1000113922,DIRECT
-bigo.sg, 1000113922, RESELLER
+betweendigital.com, 44111, DIRECT, gfasdasdasd
+bigo.sg,1000113922,DIRECT,gasdsad
+bigo.sg， 1000113922， RESELLER
