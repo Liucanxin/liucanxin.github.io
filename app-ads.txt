@@ -27,7 +27,7 @@ my-cast.tv,987137,reseller
 thunder-monetize.com,1723306631,reseller
 improvedigital.com,2534,reseller
 bigo.sg,qykwm0u9cr,DIRECT
-bigo.sg,1000113991,DIRECT
+bigo.sg,10001139911,DIRECT
 baidu.com2
 google.com2
 hyy1
@@ -66,3 +66,15 @@ aralego.com,par-d2346aab7abd36b4cdd7bbd264ba92e2,reseller
 my-cast.tv,987137,reseller
 thunder-monetize.com,1723306631,reseller
 improvedigital.com,2534,reseller
+baidu.com2
+google.com2
+hyy1
+hyy2
+hyy3
+hyy4
+hyy5
+google.com
+inmobi.sg
+criteo.sg
+11
+testads.sg.com
