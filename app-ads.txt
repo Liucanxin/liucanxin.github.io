@@ -27,3 +27,42 @@ my-cast.tv,987137,reseller
 thunder-monetize.com,1723306631,reseller
 improvedigital.com,2534,reseller
 bigo.sg,qykwm0u9cr,DIRECT
+bigo.sg,1000113991,DIRECT
+baidu.com2
+google.com2
+hyy1
+taurusx.com, 80066, RESELLER
+inmobi.com, 791b84bdd791470faa8dca5f04e6a83b, RESELLER, 83e75a7ae333ca9d
+rubiconproject.com, 25686, RESELLER, 0bfd66d529a55807
+aralego.com, par-D2346AAB7ABD36B4CDD7BBD264BA92E2, RESELLER
+my-cast.tv, 987137, RESELLER, 8c33fe1bd714ffd7
+lijit.com,512006, RESELLER, fafdf38b16bf6b2b #SOVRN
+pubmatic.com, 164891, RESELLER, 5d62403b186f2ace
+smartadserver.com, 4695, RESELLER, 060d053dcf45cbf3
+loopme.com, 13946, RESELLER, 6c8d5f95897a5a3b
+nextmillennium.io, 14807, RESELLER, 65bd090fa4a1e3d6
+thunder-monetize.com, 1723306631, RESELLER
+appsheep.com, b4070e679b974be9bf2150cde7d28b73, RESELLER
+improvedigital.com, 2534, RESELLER
+hyy2
+hyy3
+hyy4
+hyy5
+google.com
+inmobi.sg
+criteo.sg
+11
+testads.sg.com
+rubiconproject.com,25686,reseller
+smartadserver.com,4695,reseller
+lijit.com,512006,reseller
+appsheep.com,b4070e679b974be9bf2150cde7d28b73,reseller
+taurusx.com,80066,reseller
+pubmatic.com,164891,reseller
+inmobi.com,791b84bdd791470faa8dca5f04e6a83b,reseller
+nextmillennium.io,14807,reseller
+loopme.com,13946,reseller
+aralego.com,par-d2346aab7abd36b4cdd7bbd264ba92e2,reseller
+my-cast.tv,987137,reseller
+thunder-monetize.com,1723306631,reseller
+improvedigital.com,2534,reseller
