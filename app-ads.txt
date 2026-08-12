@@ -65,4 +65,4 @@ aralego.com,par-d2346aab7abd36b4cdd7bbd264ba92e2,reseller
 my-cast.tv,987137,reseller
 thunder-monetize.com,1723306631,reseller
 improvedigital.com,2534,reseller
-bigo.sg,100011399111,DIRECT
+bigo.sg,1000113991,DIRECT
